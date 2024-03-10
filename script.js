@@ -20,6 +20,28 @@
    
 
 // })
+// const url="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="
+// let userInput=document.querySelector('.user-input')
+
+// let qrCode= document.querySelector('#qr-img')
+
+// let btn=document.querySelector('.button')
+// btn.addEventListener('click',()=>{
+//     let userInput=document.querySelector('.user-input')
+//     let imgBox=document.querySelector('#img-box')
+
+
+//     console.log(userInput.value)
+//     console.log("button clicked")
+   
+   
+//     qrCode.src=url+userInput
+    
+//     imgBox.classList.add("show-img")
+
+   
+
+// })
 
 
 
